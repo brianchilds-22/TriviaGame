@@ -1,0 +1,53 @@
+/*.container {
+    width: 1200px;
+    height: 3000px;
+}*/
+
+body {
+  background-image: url(https://stadiumjourney.com/wp-content/uploads/2018/09/IMG_4228.jpg);
+  background-clip: border-box;
+}
+
+.card {
+    width: 750;
+    border: 10px solid #C4CED4;;
+    margin: 100px auto;
+}
+
+.card-body {
+    font-size: 25px;
+    color: #27251F;
+    background: #C4CED4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#start {
+    padding:5px;
+    width: 25%;
+    color:#C4CED4;
+    font-style: italic;
+    background: #33006F;
+    font-size: 35px; 
+}
+
+h1 {
+    color: #C4CED4;
+    background: #33006F;
+    font-family: 'Vast Shadow', cursive;
+    padding: 25px;
+}
+
+h4  {
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+ #end {
+     padding: 5px;
+     width: 25%;
+     font-style: italic;
+     color: #C4CED4;
+     background: #33006F;
+
+
+ }
